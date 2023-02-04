@@ -26,3 +26,29 @@ pythondatabase-dbm is a simple CLI python database project created using python 
 ### [+] Find me on 
 <a href="mailto:pyquinnnarlo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-pyquinnnarlo@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="[https://www.linkedin.com/in/hyuncafe/](https://www.linkedin.com/in/brilliant-narlo-b0ab4724a/)" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/null/linkedin-circled.png" alt="Linkedin" width="19" height="19"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://github.com/pyquinnnarlo" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/null/github.png" width="19" height="19"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:pyquinnnarlo@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/null/gmail.png" width="19" height="19"/>
+  </a> &nbsp;&nbsp;
+
+  <a href="https://web.facebook.com/codewithquinn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/null/meta.png" width="19" height="19"/>
+</a> &nbsp;&nbsp;
+  <a>
+    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="19" height="19"/>
+    <span>quinn#4599</span>
+</p> 
+  
+  <div align="center">
+  
+   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> 
+    </div>
