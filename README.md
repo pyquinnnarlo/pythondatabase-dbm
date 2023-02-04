@@ -1,9 +1,8 @@
 <h2 align="center"><u>dbm Python Database</u></h2>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
-    
-    </div>
+    <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" >
+</div>
 
 <p align="center">
     <img src="https://img.shields.io/github/license/pyquinnnarlo/pythondatabase-dbm?style=for-the-badge&color=blue">
