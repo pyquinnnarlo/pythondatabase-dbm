@@ -44,11 +44,6 @@ pythondatabase-dbm is a simple CLI python database project created using python 
     <img src="https://img.icons8.com/fluency/48/null/meta.png" width="19" height="19"/>
 </a> &nbsp;&nbsp;
   <a>
-    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="19" height="19"/>
+    <img src="https://img.icons8.com/fluency/48/null/discord-new-logo.png" width="30" height="30"/>
     <span>quinn#4599</span>
 </p> 
-  
-  <div align="center">
-  
-   <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif"> 
-    </div>
