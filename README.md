@@ -3,6 +3,9 @@
 
 In computing, a database is an organized collection of data stored and accessed electronically. Small databases can be stored on a file system, while large databases are hosted on computer clusters or cloud storage. The design of databases spans formal techniques and practical considerations, including data modeling, efficient data representation and storage, query languages, security and privacy of sensitive data, and distributed computing issues, including supporting concurrent access and fault tolerance.
 
+
+dbm is a generic interface to variants of the DBM database — dbm.gnu or dbm.ndbm. If none of these modules is installed, the slow-but-simple implementation in module dbm.dumb will be used.
+
 <div align="center">
     <img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" >
 </div>
